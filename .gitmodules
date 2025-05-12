@@ -1,0 +1,3 @@
+[submodule "newLab2submodule"]
+	path = newLab2submodule
+	url = https://github.com/jingheng23066/newLab2
